@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "nexara-media1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "42b7d111-7876-46f4-8951-4ed5e908b8c4",
+			"database_name": "nexara_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
